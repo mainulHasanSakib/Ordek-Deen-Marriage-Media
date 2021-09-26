@@ -1,0 +1,9 @@
+.img-top{
+    width:200px;
+    height: 200px;
+    border :5px solid plum ;
+    border-radius: 50%;
+}
+.bg-product{
+    background-color: #6C2962;
+}
